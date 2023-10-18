@@ -29,9 +29,9 @@
 
 ## Связь со мной
 
-[![Telegram](image/gmail1.png)](ссылка_на_ваш_аккаунт_в_Телеграме)
-[![Telegram](image/tg2.png)](ссылка_на_ваш_аккаунт_в_Телеграме)
-[![Telegram](image/discord1.png)](ссылка_на_ваш_аккаунт_в_Телеграме)
+[![Telegram](image/gmail1.png)](maksim.orehovskii@gmail.com)
+[![Telegram](image/tg2.png)](https://t.me/brenettg)
+[![Telegram](image/discord1.png)](@brenet1)
 
 
 
