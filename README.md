@@ -31,7 +31,5 @@
 
 - [![gmail](image/gmail1.png) maksim.orehovskii@gmail.com
 - [![Telegram](image/tg2.png)](https://t.me/brenettg) brenettg
-- [![discord](image/discord1.png)](https://discord.com/users/990590697201623082) brenettg1
-
 
 
