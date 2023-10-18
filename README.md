@@ -8,7 +8,7 @@
 
 - студент Rolling Scopes School
 
-<div style="border-bottom: 1px solid #ccc; margin:25px 0 15px 0 ;font-size:20px;">Умения</div>
+### Умения
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 </p>
 
-<div style="border-bottom: 1px solid #ccc; margin:25px 0 15px 0 ;font-size:20px;">Связь со мной</div>
+### Связь со мной
 
 [![Telegram](image/gmail1.png)](ссылка_на_ваш_аккаунт_в_Телеграме)
 [![Telegram](image/tg2.png)](ссылка_на_ваш_аккаунт_в_Телеграме)
