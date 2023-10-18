@@ -27,11 +27,11 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 </p>
 
-### Связь со мной
+## Связь со мной
 
 [![Telegram](image/gmail1.png)](ссылка_на_ваш_аккаунт_в_Телеграме)
 [![Telegram](image/tg2.png)](ссылка_на_ваш_аккаунт_в_Телеграме)
 [![Telegram](image/discord1.png)](ссылка_на_ваш_аккаунт_в_Телеграме)
 
 
-***
+
