@@ -29,7 +29,7 @@
 
 ## Связь со мной
 
-- [![gmail](image/gmail1.png) maksim.orehovskii@gmail.com
+- [![gmail](image/gmail1.png)] maksim.orehovskii@gmail.com
 - [![Telegram](image/tg2.png)](https://t.me/brenettg) brenettg
 
 
