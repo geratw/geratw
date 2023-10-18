@@ -2,13 +2,13 @@
 
 Я - Junior Frontend Developer с базовыми навыками работы в веб-разработке. Имею знания в HTML, CSS и JavaScript, а также опыт работы с библиотеками и фреймворками. Готов к изучению новых технологий и стремлюсь к профессиональному росту в сфере Frontend разработки.
 
-### Информация
+## Информация
 
 - студент Shool21 (образовательный проект от Сбера)
 
 - студент Rolling Scopes School
 
-### Умения
+## Умения
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
