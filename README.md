@@ -3,7 +3,7 @@
 
 
 
-* ✉️  You can contact me at [maksim.orehovskii@gmail.com]
+* ✉️  You can contact me at maksim.orehovskii@gmail.com
 
 ### Skills
 
