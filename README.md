@@ -4,6 +4,7 @@
 
 
 * ✉️  You can contact me at maksim.orehovskii@gmail.com
+* [![Telegram](https://example.com/telegram-icon.png)](https://t.me/geratw)
 
 ### Skills
 
