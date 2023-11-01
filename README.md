@@ -1,10 +1,6 @@
 # Привет 👋, я Максим - Frontend Developer
 
-<p align=”center”>
-
-<img width=”200" height=”200" src=”image/Make your README.png" alt=”my banner”>
-
-</p>
+[![gmail](image/Make your README.png)]
 
 Я - Junior Frontend Developer. Имею знания в HTML, CSS и JavaScript, а также уверенно использую библиотеки и фреймворки в своей работе. Стремлюсь к профессиональному росту в сфере Frontend разработки.
 
