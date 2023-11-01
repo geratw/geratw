@@ -1,12 +1,12 @@
 ![gmail](image/My_readme.png)
 
-## Информация
+## Information
 
-- студент School21 (образовательный проект от Сбера)
+- Student of school 21 (educational project from Sber)
 
-- студент Rolling Scopes School
+- Student of Rolling Scopes School
 
-## Умения
+## Skills
 
 [![codewars](https://www.codewars.com/users/greatw/badges/large)](https://www.codewars.com/users/brenettg) 
 
@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 </p>
 
-## Связь со мной
+## Contact with me
 
 - [![gmail](image/gmail1.png)](mailto:maksim.orehovskii@gmail.com) maksim.orehovskii@gmail.com
 - [![Telegram](image/tg2.png)](https://t.me/brenettg) brenettg
