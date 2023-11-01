@@ -9,7 +9,6 @@
 - студент Rolling Scopes School
 
 ## Умения
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geratw)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geratw&theme=solarized_dark)
 
