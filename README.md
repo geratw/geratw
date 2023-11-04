@@ -11,7 +11,7 @@
 [![codewars](https://www.codewars.com/users/greatw/badges/large)](https://www.codewars.com/users/brenettg) 
 <div style="display: flex; align-items: center; justify-content: center; ">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geratw&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geratw&theme=solarized_dark)
 
 </div>
 
