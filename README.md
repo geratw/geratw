@@ -9,12 +9,8 @@
 ## Skills
 
 [![codewars](https://www.codewars.com/users/greatw/badges/large)](https://www.codewars.com/users/brenettg) 
-<div style="display: flex; align-items: center; justify-content: center; ">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geratw&theme=solarized_dark)
-
-</div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geratw&theme=solarized_dark)
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
