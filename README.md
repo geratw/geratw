@@ -32,7 +32,7 @@
 
 ## Contact with me
 
-- [![gmail](image/gmail1.png)](mailto:maksim.orehovskii@gmail.com)
-- [![Telegram](image/tg2.png)](https://t.me/brenettg)
+[![gmail](image/gmail1.png)](mailto:maksim.orehovskii@gmail.com) [![Telegram](image/tg2.png)](https://t.me/brenettg)
+
 
 
